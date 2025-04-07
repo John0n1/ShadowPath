@@ -1,6 +1,8 @@
 # ShadowPath
-
 ShadowPath is a **smart internal network pivoting toolkit** designed for offensive security professionals. It automates post-exploitation tasks—such as SMB share enumeration, remote command execution, NTLM/DNS relaying, and Active Directory mapping—to help you "live off the land" in enterprise environments.
+
+
+![Shadowpath1](https://github.com/user-attachments/assets/84402b6c-fe7c-4152-8ec1-513d6d62fbfb)
 
 
 
